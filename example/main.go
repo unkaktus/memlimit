@@ -3,7 +3,7 @@
 package main
 
 import (
-	_ "github.com/nogoegst/memlimit"
+	_ "github.com/unkaktus/memlimit"
 )
 
 func main() {
